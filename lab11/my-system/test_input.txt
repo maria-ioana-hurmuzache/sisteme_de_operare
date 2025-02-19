@@ -1,0 +1,13 @@
+programul
+rol
+de 
+proces
+supervisor
+implementeze 
+următoarele
+funcționalități
+primește 
+comandă 
+numărul
+fișierului
+text

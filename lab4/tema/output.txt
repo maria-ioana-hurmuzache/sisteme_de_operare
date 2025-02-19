@@ -1,0 +1,21 @@
+suma grupului 1 este: 0
+suma grupului 2 este: 0
+suma grupului 3 este: 0
+Suma celor 3 argumente este: 6
+Suma celor 3 argumente este: 15
+Suma celor 1 argumente este: 7
+Suma celor 3 argumente este: 3
+Suma celor 3 argumente este: 6
+Suma celor 1 argumente este: 7
+Suma celor 3 argumente este: 3
+Suma celor 3 argumente este: 6
+Suma celor 1 argumente este: 7
+Suma celor 3 argumente este: 3
+Suma celor 3 argumente este: 6
+Suma celor 1 argumente este: 7
+Suma celor 3 argumente este: 3
+Suma celor 3 argumente este: 6
+Suma celor 1 argumente este: 7
+Suma celor 3 argumente este: 6
+Suma celor 3 argumente este: 15
+Suma celor 1 argumente este: 7

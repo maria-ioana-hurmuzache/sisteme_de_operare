@@ -1,0 +1,1 @@
+sub-temaA2.cpp
